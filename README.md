@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="190" style="border-radius: 50%;"/>
+  <img src="![صورتي](https://github.com/user-attachments/assets/51a4029e-42ea-4677-8548-a06a2188f324)
+" width="190" style="border-radius: 50%;"/>
 </p>
 
 <h1 align="center">✨ Hey, I'm Ouissal Yahyaoui ✨</h1>
