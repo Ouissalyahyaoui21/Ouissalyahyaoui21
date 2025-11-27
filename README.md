@@ -1,4 +1,4 @@
-## i like computer Science
+## I like computer Science
 
 <!--
 **Ouissalyahyaoui21/Ouissalyahyaoui21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
